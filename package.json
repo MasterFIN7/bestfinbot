@@ -1,0 +1,14 @@
+{
+  "name": "perunabot",
+  "version": "1.0.0",
+  "description": "PerunaCraftin Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "MasterFIN",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}

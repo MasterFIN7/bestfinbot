@@ -6,7 +6,7 @@ var bot = new Discord.Client();
 
 bot.on("ready", function() {
   console.log("Ready");
-  bot.user.setGame("Use f!help");
+  bot.user.setGame("XD");
 });
 
 bot.on("message", function(message) {
